@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDeDatos", "TiposDeDato
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaTienda", "TareaTienda\TareaTienda.csproj", "{470C18B0-DE79-442D-BC85-120BBE9B6A62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoNotaFinalYCondicion", "CalculoNotaFinalYCondicion\CalculoNotaFinalYCondicion.csproj", "{CC736C47-23AA-494A-A17F-E6A4FDFDC918}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{470C18B0-DE79-442D-BC85-120BBE9B6A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{470C18B0-DE79-442D-BC85-120BBE9B6A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{470C18B0-DE79-442D-BC85-120BBE9B6A62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC736C47-23AA-494A-A17F-E6A4FDFDC918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC736C47-23AA-494A-A17F-E6A4FDFDC918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC736C47-23AA-494A-A17F-E6A4FDFDC918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC736C47-23AA-494A-A17F-E6A4FDFDC918}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
