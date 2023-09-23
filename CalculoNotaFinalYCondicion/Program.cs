@@ -78,6 +78,7 @@ namespace CalculoNotaFinalYCondicion
             Console.WriteLine($"Porcentaje de Examenes: {porcentajeExamen} / 45");
             Console.WriteLine($"Promedio Final: {promedioFinal}");
             Console.WriteLine($"Condicion: {condicion}");
+            Console.ReadLine();
 
         }
     }
